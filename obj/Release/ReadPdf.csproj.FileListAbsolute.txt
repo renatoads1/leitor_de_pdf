@@ -1,0 +1,12 @@
+C:\Users\renatolacerda\source\repos\ReadPdf\bin\Release\ReadPdf.exe.config
+C:\Users\renatolacerda\source\repos\ReadPdf\bin\Release\ReadPdf.exe
+C:\Users\renatolacerda\source\repos\ReadPdf\bin\Release\ReadPdf.pdb
+C:\Users\renatolacerda\source\repos\ReadPdf\bin\Release\itextsharp.dll
+C:\Users\renatolacerda\source\repos\ReadPdf\bin\Release\itextsharp.xml
+C:\Users\renatolacerda\source\repos\ReadPdf\obj\Release\ReadPdf.Form1.resources
+C:\Users\renatolacerda\source\repos\ReadPdf\obj\Release\ReadPdf.Properties.Resources.resources
+C:\Users\renatolacerda\source\repos\ReadPdf\obj\Release\ReadPdf.csproj.GenerateResource.cache
+C:\Users\renatolacerda\source\repos\ReadPdf\obj\Release\ReadPdf.csproj.CoreCompileInputs.cache
+C:\Users\renatolacerda\source\repos\ReadPdf\obj\Release\ReadPdf.csproj.CopyComplete
+C:\Users\renatolacerda\source\repos\ReadPdf\obj\Release\ReadPdf.exe
+C:\Users\renatolacerda\source\repos\ReadPdf\obj\Release\ReadPdf.pdb

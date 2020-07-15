@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30225.117
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReadPdf", "ReadPdf.csproj", "{89A5C0AC-E0B4-418A-A34A-6EADB0B24792}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Leitor de Pdf install", "instalador\Leitor de Pdf install\Leitor de Pdf install.vdproj", "{53755AC1-B1EE-4EAF-8087-CFD2FF74BCA3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{89A5C0AC-E0B4-418A-A34A-6EADB0B24792}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89A5C0AC-E0B4-418A-A34A-6EADB0B24792}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89A5C0AC-E0B4-418A-A34A-6EADB0B24792}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89A5C0AC-E0B4-418A-A34A-6EADB0B24792}.Release|Any CPU.Build.0 = Release|Any CPU
+		{53755AC1-B1EE-4EAF-8087-CFD2FF74BCA3}.Debug|Any CPU.ActiveCfg = Debug
+		{53755AC1-B1EE-4EAF-8087-CFD2FF74BCA3}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FACFD4CE-8054-48CA-9D18-566AC9240C56}
+	EndGlobalSection
+EndGlobal

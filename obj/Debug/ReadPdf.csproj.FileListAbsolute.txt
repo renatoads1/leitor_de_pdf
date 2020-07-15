@@ -1,0 +1,13 @@
+C:\Users\renatolacerda\source\repos\ReadPdf\obj\Debug\ReadPdf.csprojAssemblyReference.cache
+C:\Users\renatolacerda\source\repos\ReadPdf\obj\Debug\ReadPdf.Form1.resources
+C:\Users\renatolacerda\source\repos\ReadPdf\obj\Debug\ReadPdf.Properties.Resources.resources
+C:\Users\renatolacerda\source\repos\ReadPdf\obj\Debug\ReadPdf.csproj.GenerateResource.cache
+C:\Users\renatolacerda\source\repos\ReadPdf\obj\Debug\ReadPdf.csproj.CoreCompileInputs.cache
+C:\Users\renatolacerda\source\repos\ReadPdf\bin\Debug\ReadPdf.exe.config
+C:\Users\renatolacerda\source\repos\ReadPdf\bin\Debug\ReadPdf.exe
+C:\Users\renatolacerda\source\repos\ReadPdf\bin\Debug\ReadPdf.pdb
+C:\Users\renatolacerda\source\repos\ReadPdf\bin\Debug\itextsharp.dll
+C:\Users\renatolacerda\source\repos\ReadPdf\bin\Debug\itextsharp.xml
+C:\Users\renatolacerda\source\repos\ReadPdf\obj\Debug\ReadPdf.csproj.CopyComplete
+C:\Users\renatolacerda\source\repos\ReadPdf\obj\Debug\ReadPdf.exe
+C:\Users\renatolacerda\source\repos\ReadPdf\obj\Debug\ReadPdf.pdb
